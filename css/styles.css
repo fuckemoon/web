@@ -11205,15 +11205,15 @@ body {
     border-left: 0.5rem solid #64a19d;
   }
 }
-.howto-section .project-text {
+.howto-section .howto-text {
   padding: 3rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
-  .howto-section .project-text {
+  .howto-section .howto-text {
     padding: 5rem;
   }
-  .howto-section .project-text hr {
+  .howto-section .howto-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
