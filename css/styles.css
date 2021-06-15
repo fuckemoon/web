@@ -11279,5 +11279,24 @@ body {
 .footer {
   padding: 5rem 0;
 }
-
   
+.hero-p1 {
+  padding-top: 44px;
+}
+
+.p1 {
+  font-family: Segoeuib, sans-serif;
+  color: #fff;
+  font-size: 28px;
+  line-height: 38px;
+
+}
+
+.image-26 {
+  position: fixed;
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  width: 125px;
+}  
