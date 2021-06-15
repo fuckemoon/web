@@ -11096,7 +11096,7 @@ body {
     color: #64a19d;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
-  }
+  }class="imagefixed"
 }
 
 .btn {
@@ -11193,13 +11193,14 @@ body {
   }
 }
 
-.imagefixed {
-  position: fixed;
+.image-sticky {
+  position: -webkit-sticky;
+  position: sticky;
   left: 0%;
   top: auto;
   right: auto;
   bottom: 0%;
-  width: 125px;
+  width: 150px;
 } 
 
 .howto-section {
